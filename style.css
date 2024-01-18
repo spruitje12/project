@@ -1,0 +1,131 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #F1E8D6;
+}
+
+nav{
+    background-image: url(images.html/nav.png);
+    
+}
+
+.logo{
+    width: 100px;
+}
+
+.kaart{
+    display:block;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 2em;
+}
+
+h1{
+    text-align: center;
+    font-family: "delittle-chromatic", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+h2{
+    font-family: "delittle-chromatic", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size:large
+}
+
+h3{
+    font-family: "alphatier-pro", sans-serif;
+   font-weight: 300;
+   font-style: normal;
+   font-size:small;
+   }
+
+   .centered{
+    border: solid 6px #F1E8D6;
+    background-color: #F2B807;
+    text-align: center;
+    margin-left: 2em;
+    margin-right: 2em;
+    padding-left: 1em;
+    padding-right: 1em;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    border-radius: 25px;
+  }
+
+.fotogallerij{
+    width: 150px;
+    height: 215px;
+    border: solid #F2B807;
+    background-color: #F2B807;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+    padding-top: 1em;
+    padding-bottom: 2em;
+    margin-left: 0.7em;
+    margin-right: o.5em;
+    margin-bottom: 2em;
+    margin-top: 1em;
+}
+
+.ruimte{
+    height: 95px;
+}
+
+.iconen{
+    display: block;
+    margin-right: auto;
+    margin-left: auto; 
+}
+
+.bordertips{
+    border: solid 6px #F1E8D6;
+    background-color: #F2B807;
+    text-align: center;
+    margin-left: 2em;
+    margin-right: 7em;
+    border-radius: 25px;
+    padding-left: 1em;
+    padding-right: 1em;
+    margin-bottom: 3em;
+}
+
+.bordertips2{
+    border: solid 6px #F1E8D6;
+    background-color: #F2B807;
+    text-align: center;
+    margin-left: 7em;
+    margin-right: 2em;
+    border-radius: 25px;
+    padding-left: 1em;
+    padding-right: 1em;
+    margin-bottom: 3em;
+}
+
+footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-image: url(images.html/footer.png);
+    height: auto;
+    margin: 0;
+    padding: 0;
+}
+
+ul{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    margin-bottom: 0%;
+    margin-right: 2.5em;
+    margin-left: auto;
+}
+
+.navigatie{
+    height: 70px;
+    padding-left: 0.02em;
+}
